@@ -1,0 +1,14 @@
+$kind: http-request
+description: ""
+url: http://127.0.0.1:8000/posts/2
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"title\": \"Latest pc Game\",\r
+
+    \    \"content\": \"God of war Ragnarok\"\r
+
+    }"
+order: 4465954559664656

@@ -1,0 +1,16 @@
+$kind: http-request
+description: ""
+url: http://127.0.0.1:8000/posts
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"id\": 3,\r
+
+    \    \"title\": \"Best pc game\",\r
+
+    \    \"content\": \"Prince of Persia\"\r
+
+    }"
+order: 3371018464485522
