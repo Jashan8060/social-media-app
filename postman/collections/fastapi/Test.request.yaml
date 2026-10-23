@@ -1,4 +1,4 @@
 $kind: http-request
-url: ""
+url: "{{URL}}"
 method: GET
 order: 4480927145260792
